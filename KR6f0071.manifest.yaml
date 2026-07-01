@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6f0071/v1
+canonical_location: https://kanripo.org/bkk/KR6f0071/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說觀無量壽佛經
+  identifiers:
+    alt_id:
+    - T12n0365
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0365.xml
+    old_id: T12n0365
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 流布本
+  label: 流布本
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 敦
+  label: 敦
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0071_000.yaml, hash: 'sha256:ba98f18be6944c1df0e0ed03b3ac84c084f4863a044add8fce0bb8feb5c0c752'}
+  - {seq: 1, filename: KR6f0071_001.yaml, hash: 'sha256:2be8ac109dfcb8d25a4a2ce38c896ef6e088a11fa8fd43342cb5b2c1b7a57c33'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0071_000.markers.yaml, hash: 'sha256:b6f8874d5c71ada0e5c8a5382fe865868a9643cdc6729b7d9657def37233d21a'}
+  - {seq: 1, role: markers, filename: assets/KR6f0071_001.markers.yaml, hash: 'sha256:e5e5a32e0a91684bb3a8b150d66649c5dd903387540d6a138dd6234a8f5f246e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6f0071_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 御製無量壽佛贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0071_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7520
+  label: 佛說觀無量壽佛經
+  type: juan
+  level: 1
+hash: sha256:4120b0745600d33938460df4dfc88d878fe29b345b37d4f50426246bcd111621
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
