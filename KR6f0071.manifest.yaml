@@ -36,11 +36,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0071_000.yaml, hash: 'sha256:ba98f18be6944c1df0e0ed03b3ac84c084f4863a044add8fce0bb8feb5c0c752'}
-  - {seq: 1, filename: KR6f0071_001.yaml, hash: 'sha256:2be8ac109dfcb8d25a4a2ce38c896ef6e088a11fa8fd43342cb5b2c1b7a57c33'}
+  - {seq: 0, filename: KR6f0071_000.yaml, hash: 'sha256:36e185b9bbdb3861c103e76cf117d3695592d50f5746186803dea510d57939af'}
+  - {seq: 1, filename: KR6f0071_001.yaml, hash: 'sha256:77b346046694663e33c32e2cbb27d1bf88f347c2b86c95b11490db358041e4b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0071_000.markers.yaml, hash: 'sha256:b6f8874d5c71ada0e5c8a5382fe865868a9643cdc6729b7d9657def37233d21a'}
-  - {seq: 1, role: markers, filename: assets/KR6f0071_001.markers.yaml, hash: 'sha256:e5e5a32e0a91684bb3a8b150d66649c5dd903387540d6a138dd6234a8f5f246e'}
+  - {seq: 0, role: markers, filename: assets/KR6f0071_000.markers.yaml, hash: 'sha256:6c2fde1220a41966b17f210b0b70f03137b20e766f564ac6f6a88d64ab5b92af'}
+  - {seq: 1, role: markers, filename: assets/KR6f0071_001.markers.yaml, hash: 'sha256:81a21e407138dda63ad8838ea8edc8974849391b37b0823bd260ddf7adb3e897'}
 table_of_contents:
 - ref:
     seq: 0
@@ -62,7 +62,4 @@ table_of_contents:
   label: 佛說觀無量壽佛經
   type: juan
   level: 1
-hash: sha256:4120b0745600d33938460df4dfc88d878fe29b345b37d4f50426246bcd111621
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c0a91448b744638d745990f99821684791c0cfce9b0c76a8d26f99b6cf60f777
