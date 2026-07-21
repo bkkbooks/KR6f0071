@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0071_000-T.yaml, hash: 'sha256:36e185b9bbdb3861c103e76cf117d3695592d50f5746186803dea510d57939af'}
+  - {seq: 0, filename: KR6f0071_000-T.yaml, hash: 'sha256:3692506a94964388075f741ea00fd00b4167ac6212dbd2c3e766b37cf16d2853'}
   - {seq: 1, filename: KR6f0071_001-T.yaml, hash: 'sha256:77b346046694663e33c32e2cbb27d1bf88f347c2b86c95b11490db358041e4b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0071_000-T.markers.yaml, hash: 'sha256:0756636dfb1fedb1e5d2cf7ea3bb52f69c817cbcd5fe09085e6fdf889c1b8886'}
+  - {seq: 0, role: markers, filename: assets/KR6f0071_000-T.markers.yaml, hash: 'sha256:588730eda7b38c64175cc8df0907699e73e20321e1f4eec8b7020cbbf6e69108'}
   - {seq: 1, role: markers, filename: assets/KR6f0071_001-T.markers.yaml, hash: 'sha256:2a7ebfa998ad23352879147fc15593973988e5fb15be72b99d2eccd0700cecb9'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6f0071_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 御製無量壽佛贊
@@ -45,4 +45,4 @@ table_of_contents:
   label: 佛說觀無量壽佛經
   type: juan
   level: 1
-hash: sha256:b7956ecdedabc4dd9c834fd4d9a1984c7c45c896818d4236694ffd2cd6d11d09
+hash: sha256:4758cb734c95d154870104d378aac6fb46b1ee93e10c9ff19b5aa01b22c2a676

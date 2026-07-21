@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6f0071/T/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: line-break, offset: 0, content: '', id: KR6f0071_T_000-0340b19, ed: T, 'n': 0340b19}
   - {type: line-break, offset: 0, content: '', id: KR6f0071_T_000-0340b20, ed: T, 'n': 0340b20}
   - {type: line-break, offset: 0, content: '', id: KR6f0071_T_000-0340b21, ed: T, 'n': 0340b21}
@@ -138,6 +138,5 @@ markers:
   - {type: xml-element, offset: 427, content: '', id: lgT12p0340b2401_end, name: lg, role: close, attrs: {type: regular, 'xml:id': lgT12p0340b2401}}
   - {type: line-break, offset: 427, content: '', id: KR6f0071_T_000-0340c25, ed: T, 'n': 0340c25}
   - {type: line-break, offset: 427, content: '', id: KR6f0071_T_000-0340c26, ed: T, 'n': 0340c26}
-  body: []
   back: []
-hash: sha256:0756636dfb1fedb1e5d2cf7ea3bb52f69c817cbcd5fe09085e6fdf889c1b8886
+hash: sha256:588730eda7b38c64175cc8df0907699e73e20321e1f4eec8b7020cbbf6e69108
